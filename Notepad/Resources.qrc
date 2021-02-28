@@ -1,0 +1,627 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>assets/xp_icons/1.ico</file>
+        <file>assets/xp_icons/2.ico</file>
+        <file>assets/xp_icons/3.ico</file>
+        <file>assets/xp_icons/4.ico</file>
+        <file>assets/xp_icons/5.ico</file>
+        <file>assets/xp_icons/6.ico</file>
+        <file>assets/xp_icons/7.ico</file>
+        <file>assets/xp_icons/8.ico</file>
+        <file>assets/xp_icons/9.ico</file>
+        <file>assets/xp_icons/10.ico</file>
+        <file>assets/xp_icons/11.ico</file>
+        <file>assets/xp_icons/12.ico</file>
+        <file>assets/xp_icons/13.ico</file>
+        <file>assets/xp_icons/14.ico</file>
+        <file>assets/xp_icons/15.ico</file>
+        <file>assets/xp_icons/16.ico</file>
+        <file>assets/xp_icons/17.ico</file>
+        <file>assets/xp_icons/18.ico</file>
+        <file>assets/xp_icons/19.ico</file>
+        <file>assets/xp_icons/20.ico</file>
+        <file>assets/xp_icons/21.ico</file>
+        <file>assets/xp_icons/22.ico</file>
+        <file>assets/xp_icons/23.ico</file>
+        <file>assets/xp_icons/24.ico</file>
+        <file>assets/xp_icons/25.ico</file>
+        <file>assets/xp_icons/26.ico</file>
+        <file>assets/xp_icons/27.ico</file>
+        <file>assets/xp_icons/29.ico</file>
+        <file>assets/xp_icons/30.ico</file>
+        <file>assets/xp_icons/32.ico</file>
+        <file>assets/xp_icons/33.ico</file>
+        <file>assets/xp_icons/34.ico</file>
+        <file>assets/xp_icons/35.ico</file>
+        <file>assets/xp_icons/36.ico</file>
+        <file>assets/xp_icons/37.ico</file>
+        <file>assets/xp_icons/38.ico</file>
+        <file>assets/xp_icons/39.ico</file>
+        <file>assets/xp_icons/40.ico</file>
+        <file>assets/xp_icons/41.ico</file>
+        <file>assets/xp_icons/42.ico</file>
+        <file>assets/xp_icons/43.ico</file>
+        <file>assets/xp_icons/44.ico</file>
+        <file>assets/xp_icons/45.ico</file>
+        <file>assets/xp_icons/46.ico</file>
+        <file>assets/xp_icons/47.ico</file>
+        <file>assets/xp_icons/48.ico</file>
+        <file>assets/xp_icons/54.ico</file>
+        <file>assets/xp_icons/133.ico</file>
+        <file>assets/xp_icons/134.ico</file>
+        <file>assets/xp_icons/137.ico</file>
+        <file>assets/xp_icons/138.ico</file>
+        <file>assets/xp_icons/139.ico</file>
+        <file>assets/xp_icons/140.ico</file>
+        <file>assets/xp_icons/141.ico</file>
+        <file>assets/xp_icons/142.ico</file>
+        <file>assets/xp_icons/143.ico</file>
+        <file>assets/xp_icons/144.ico</file>
+        <file>assets/xp_icons/145.ico</file>
+        <file>assets/xp_icons/146.ico</file>
+        <file>assets/xp_icons/147.ico</file>
+        <file>assets/xp_icons/151.ico</file>
+        <file>assets/xp_icons/152.ico</file>
+        <file>assets/xp_icons/153.ico</file>
+        <file>assets/xp_icons/154.ico</file>
+        <file>assets/xp_icons/155.ico</file>
+        <file>assets/xp_icons/156.ico</file>
+        <file>assets/xp_icons/157.ico</file>
+        <file>assets/xp_icons/160.ico</file>
+        <file>assets/xp_icons/161.ico</file>
+        <file>assets/xp_icons/165.ico</file>
+        <file>assets/xp_icons/166.ico</file>
+        <file>assets/xp_icons/167.ico</file>
+        <file>assets/xp_icons/168.ico</file>
+        <file>assets/xp_icons/169.ico</file>
+        <file>assets/xp_icons/170.ico</file>
+        <file>assets/xp_icons/172.ico</file>
+        <file>assets/xp_icons/173.ico</file>
+        <file>assets/xp_icons/174.ico</file>
+        <file>assets/xp_icons/175.ico</file>
+        <file>assets/xp_icons/176.ico</file>
+        <file>assets/xp_icons/177.ico</file>
+        <file>assets/xp_icons/178.ico</file>
+        <file>assets/xp_icons/179.ico</file>
+        <file>assets/xp_icons/180.ico</file>
+        <file>assets/xp_icons/181.ico</file>
+        <file>assets/xp_icons/182.ico</file>
+        <file>assets/xp_icons/183.ico</file>
+        <file>assets/xp_icons/184.ico</file>
+        <file>assets/xp_icons/185.ico</file>
+        <file>assets/xp_icons/186.ico</file>
+        <file>assets/xp_icons/187.ico</file>
+        <file>assets/xp_icons/191.ico</file>
+        <file>assets/xp_icons/192.ico</file>
+        <file>assets/xp_icons/193.ico</file>
+        <file>assets/xp_icons/194.ico</file>
+        <file>assets/xp_icons/196.ico</file>
+        <file>assets/xp_icons/197.ico</file>
+        <file>assets/xp_icons/198.ico</file>
+        <file>assets/xp_icons/199.ico</file>
+        <file>assets/xp_icons/200.ico</file>
+        <file>assets/xp_icons/210.ico</file>
+        <file>assets/xp_icons/220.ico</file>
+        <file>assets/xp_icons/221.ico</file>
+        <file>assets/xp_icons/222.ico</file>
+        <file>assets/xp_icons/223.ico</file>
+        <file>assets/xp_icons/224.ico</file>
+        <file>assets/xp_icons/225.ico</file>
+        <file>assets/xp_icons/226.ico</file>
+        <file>assets/xp_icons/227.ico</file>
+        <file>assets/xp_icons/228.ico</file>
+        <file>assets/xp_icons/229.ico</file>
+        <file>assets/xp_icons/230.ico</file>
+        <file>assets/xp_icons/232.ico</file>
+        <file>assets/xp_icons/233.ico</file>
+        <file>assets/xp_icons/234.ico</file>
+        <file>assets/xp_icons/235.ico</file>
+        <file>assets/xp_icons/236.ico</file>
+        <file>assets/xp_icons/237.ico</file>
+        <file>assets/xp_icons/238.ico</file>
+        <file>assets/xp_icons/239.ico</file>
+        <file>assets/xp_icons/240.ico</file>
+        <file>assets/xp_icons/241.ico</file>
+        <file>assets/xp_icons/242.ico</file>
+        <file>assets/xp_icons/243.ico</file>
+        <file>assets/xp_icons/244.ico</file>
+        <file>assets/xp_icons/245.ico</file>
+        <file>assets/xp_icons/246.ico</file>
+        <file>assets/xp_icons/247.ico</file>
+        <file>assets/xp_icons/248.ico</file>
+        <file>assets/xp_icons/249.ico</file>
+        <file>assets/xp_icons/250.ico</file>
+        <file>assets/xp_icons/251.ico</file>
+        <file>assets/xp_icons/252.ico</file>
+        <file>assets/xp_icons/253.ico</file>
+        <file>assets/xp_icons/254.ico</file>
+        <file>assets/xp_icons/255.ico</file>
+        <file>assets/xp_icons/256.ico</file>
+        <file>assets/xp_icons/257.ico</file>
+        <file>assets/xp_icons/258.ico</file>
+        <file>assets/xp_icons/259.ico</file>
+        <file>assets/xp_icons/260.ico</file>
+        <file>assets/xp_icons/263.ico</file>
+        <file>assets/xp_icons/264.ico</file>
+        <file>assets/xp_icons/265.ico</file>
+        <file>assets/xp_icons/266.ico</file>
+        <file>assets/xp_icons/267.ico</file>
+        <file>assets/xp_icons/268.ico</file>
+        <file>assets/xp_icons/269.ico</file>
+        <file>assets/xp_icons/270.ico</file>
+        <file>assets/xp_icons/271.ico</file>
+        <file>assets/xp_icons/272.ico</file>
+        <file>assets/xp_icons/273.ico</file>
+        <file>assets/xp_icons/274.ico</file>
+        <file>assets/xp_icons/275.ico</file>
+        <file>assets/xp_icons/276.ico</file>
+        <file>assets/xp_icons/277.ico</file>
+        <file>assets/xp_icons/278.ico</file>
+        <file>assets/xp_icons/279.ico</file>
+        <file>assets/xp_icons/281.ico</file>
+        <file>assets/xp_icons/282.ico</file>
+        <file>assets/xp_icons/283.ico</file>
+        <file>assets/xp_icons/284.ico</file>
+        <file>assets/xp_icons/289.ico</file>
+        <file>assets/xp_icons/290.ico</file>
+        <file>assets/xp_icons/291.ico</file>
+        <file>assets/xp_icons/292.ico</file>
+        <file>assets/xp_icons/293.ico</file>
+        <file>assets/xp_icons/294.ico</file>
+        <file>assets/xp_icons/295.ico</file>
+        <file>assets/xp_icons/296.ico</file>
+        <file>assets/xp_icons/297.ico</file>
+        <file>assets/xp_icons/298.ico</file>
+        <file>assets/xp_icons/299.ico</file>
+        <file>assets/xp_icons/300.ico</file>
+        <file>assets/xp_icons/301.ico</file>
+        <file>assets/xp_icons/302.ico</file>
+        <file>assets/xp_icons/303.ico</file>
+        <file>assets/xp_icons/304.ico</file>
+        <file>assets/xp_icons/305.ico</file>
+        <file>assets/xp_icons/306.ico</file>
+        <file>assets/xp_icons/307.ico</file>
+        <file>assets/xp_icons/308.ico</file>
+        <file>assets/xp_icons/309.ico</file>
+        <file>assets/xp_icons/310.ico</file>
+        <file>assets/xp_icons/311.ico</file>
+        <file>assets/xp_icons/312.ico</file>
+        <file>assets/xp_icons/313.ico</file>
+        <file>assets/xp_icons/314.ico</file>
+        <file>assets/xp_icons/315.ico</file>
+        <file>assets/xp_icons/316.ico</file>
+        <file>assets/xp_icons/317.ico</file>
+        <file>assets/xp_icons/318.ico</file>
+        <file>assets/xp_icons/319.ico</file>
+        <file>assets/xp_icons/320.ico</file>
+        <file>assets/xp_icons/321.ico</file>
+        <file>assets/xp_icons/322.ico</file>
+        <file>assets/xp_icons/323.ico</file>
+        <file>assets/xp_icons/324.ico</file>
+        <file>assets/xp_icons/326.ico</file>
+        <file>assets/xp_icons/327.ico</file>
+        <file>assets/xp_icons/328.ico</file>
+        <file>assets/xp_icons/330.ico</file>
+        <file>assets/xp_icons/331.ico</file>
+        <file>assets/xp_icons/337.ico</file>
+        <file>assets/xp_icons/338.ico</file>
+        <file>assets/xp_icons/339.ico</file>
+        <file>assets/xp_icons/512.ico</file>
+        <file>assets/xp_icons/1001.ico</file>
+        <file>assets/xp_icons/1003.ico</file>
+        <file>assets/xp_icons/1004.ico</file>
+        <file>assets/xp_icons/1007.ico</file>
+        <file>assets/xp_icons/1011.ico</file>
+        <file>assets/xp_icons/8240.ico</file>
+        <file>assets/xp_icons/16718.ico</file>
+        <file>assets/xp_icons/downloadfolder.ico</file>
+        <file>assets/xp_icons/Accessibility Options.ico</file>
+        <file>assets/xp_icons/Add New Hardware.ico</file>
+        <file>assets/xp_icons/Add Remove Programs.ico</file>
+        <file>assets/xp_icons/AVI File.ico</file>
+        <file>assets/xp_icons/BMP File.ico</file>
+        <file>assets/xp_icons/Briefcase.ico</file>
+        <file>assets/xp_icons/Console.ico</file>
+        <file>assets/xp_icons/Control Panel.ico</file>
+        <file>assets/xp_icons/Date Time.ico</file>
+        <file>assets/xp_icons/Desktop Themes.ico</file>
+        <file>assets/xp_icons/Devices.ico</file>
+        <file>assets/xp_icons/Dial-up Networking.ico</file>
+        <file>assets/xp_icons/Disk-Defragmenter.ico</file>
+        <file>assets/xp_icons/Display.ico</file>
+        <file>assets/xp_icons/DLL File.ico</file>
+        <file>assets/xp_icons/Drive (C)(1).ico</file>
+        <file>assets/xp_icons/Drive (C)(2).ico</file>
+        <file>assets/xp_icons/Drive (D).ico</file>
+        <file>assets/xp_icons/Entire Network.ico</file>
+        <file>assets/xp_icons/Error-Check.ico</file>
+        <file>assets/xp_icons/Excel Document.ico</file>
+        <file>assets/xp_icons/Excel File.ico</file>
+        <file>assets/xp_icons/EXE File.ico</file>
+        <file>assets/xp_icons/Find Fast.ico</file>
+        <file>assets/xp_icons/Floppy Disk Drive (A).ico</file>
+        <file>assets/xp_icons/Floppy Disk Drive (A)(2).ico</file>
+        <file>assets/xp_icons/FLT File.ico</file>
+        <file>assets/xp_icons/FONT File (1).ico</file>
+        <file>assets/xp_icons/FONT File (2).ico</file>
+        <file>assets/xp_icons/FONT TrueType File.ico</file>
+        <file>assets/xp_icons/Gaming Options.ico</file>
+        <file>assets/xp_icons/GIF File.ico</file>
+        <file>assets/xp_icons/INI File.ico</file>
+        <file>assets/xp_icons/Intel Graphics Configuration.ico</file>
+        <file>assets/xp_icons/Internet(1).ico</file>
+        <file>assets/xp_icons/Internet(2).ico</file>
+        <file>assets/xp_icons/Internet Explorer.ico</file>
+        <file>assets/xp_icons/Internet Options.ico</file>
+        <file>assets/xp_icons/JPG File.ico</file>
+        <file>assets/xp_icons/Keyboard.ico</file>
+        <file>assets/xp_icons/Mail.ico</file>
+        <file>assets/xp_icons/Media Player.ico</file>
+        <file>assets/xp_icons/Microsoft Outlook.ico</file>
+        <file>assets/xp_icons/Modems.ico</file>
+        <file>assets/xp_icons/MS DTC.ico</file>
+        <file>assets/xp_icons/Multimedia.ico</file>
+        <file>assets/xp_icons/My Computer.ico</file>
+        <file>assets/xp_icons/My Documents.ico</file>
+        <file>assets/xp_icons/My Network Places.ico</file>
+        <file>assets/xp_icons/Network.ico</file>
+        <file>assets/xp_icons/Network and Dial-up Connections.ico</file>
+        <file>assets/xp_icons/Network Neighbourhood.ico</file>
+        <file>assets/xp_icons/New Folder.ico</file>
+        <file>assets/xp_icons/Notepad.ico</file>
+        <file>assets/xp_icons/ODBC Data Sources (32 Bit).ico</file>
+        <file>assets/xp_icons/ODS File.ico</file>
+        <file>assets/xp_icons/ODT File.ico</file>
+        <file>assets/xp_icons/Packager.ico</file>
+        <file>assets/xp_icons/Paint.ico</file>
+        <file>assets/xp_icons/Paintbrush.ico</file>
+        <file>assets/xp_icons/Passwords.ico</file>
+        <file>assets/xp_icons/PC-Card (PCMCIA).ico</file>
+        <file>assets/xp_icons/PDF File.ico</file>
+        <file>assets/xp_icons/Ports.ico</file>
+        <file>assets/xp_icons/Power.ico</file>
+        <file>assets/xp_icons/Printers.ico</file>
+        <file>assets/xp_icons/QuickTime.ico</file>
+        <file>assets/xp_icons/Recycle Bin.ico</file>
+        <file>assets/xp_icons/Regional Settings.ico</file>
+        <file>assets/xp_icons/Scanners and Cameras.ico</file>
+        <file>assets/xp_icons/Scheduled Tasks.ico</file>
+        <file>assets/xp_icons/Script File.ico</file>
+        <file>assets/xp_icons/SCSI-Adapter.ico</file>
+        <file>assets/xp_icons/Server.ico</file>
+        <file>assets/xp_icons/Services.ico</file>
+        <file>assets/xp_icons/Solitaire.ico</file>
+        <file>assets/xp_icons/Sound.ico</file>
+        <file>assets/xp_icons/Sounds.ico</file>
+        <file>assets/xp_icons/System(1).ico</file>
+        <file>assets/xp_icons/System(2).ico</file>
+        <file>assets/xp_icons/System Backup.ico</file>
+        <file>assets/xp_icons/Tape Devices.ico</file>
+        <file>assets/xp_icons/Telephony.ico</file>
+        <file>assets/xp_icons/Tweak UI.ico</file>
+        <file>assets/xp_icons/TXT File.ico</file>
+        <file>assets/xp_icons/UPS.ico</file>
+        <file>assets/xp_icons/Users.ico</file>
+        <file>assets/xp_icons/Users and Passwords.ico</file>
+        <file>assets/xp_icons/WAV File.ico</file>
+        <file>assets/xp_icons/Web Folders.ico</file>
+        <file>assets/xp_icons/Webpage.ico</file>
+        <file>assets/xp_icons/Word Document.ico</file>
+        <file>assets/xp_icons/Word File.ico</file>
+        <file>assets/xp_icons/Wordpad.ico</file>
+        <file>assets/xp_icons/ZIP 100 (E).ico</file>
+        <file>assets/xp_icons/Avosoft-Warm-Toolbar-Cut.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>assets/xp_icons/1.ico</file>
+        <file>assets/xp_icons/2.ico</file>
+        <file>assets/xp_icons/3.ico</file>
+        <file>assets/xp_icons/4.ico</file>
+        <file>assets/xp_icons/5.ico</file>
+        <file>assets/xp_icons/6.ico</file>
+        <file>assets/xp_icons/7.ico</file>
+        <file>assets/xp_icons/8.ico</file>
+        <file>assets/xp_icons/9.ico</file>
+        <file>assets/xp_icons/10.ico</file>
+        <file>assets/xp_icons/11.ico</file>
+        <file>assets/xp_icons/12.ico</file>
+        <file>assets/xp_icons/13.ico</file>
+        <file>assets/xp_icons/14.ico</file>
+        <file>assets/xp_icons/15.ico</file>
+        <file>assets/xp_icons/16.ico</file>
+        <file>assets/xp_icons/17.ico</file>
+        <file>assets/xp_icons/18.ico</file>
+        <file>assets/xp_icons/19.ico</file>
+        <file>assets/xp_icons/20.ico</file>
+        <file>assets/xp_icons/21.ico</file>
+        <file>assets/xp_icons/22.ico</file>
+        <file>assets/xp_icons/23.ico</file>
+        <file>assets/xp_icons/24.ico</file>
+        <file>assets/xp_icons/25.ico</file>
+        <file>assets/xp_icons/26.ico</file>
+        <file>assets/xp_icons/27.ico</file>
+        <file>assets/xp_icons/29.ico</file>
+        <file>assets/xp_icons/30.ico</file>
+        <file>assets/xp_icons/32.ico</file>
+        <file>assets/xp_icons/33.ico</file>
+        <file>assets/xp_icons/34.ico</file>
+        <file>assets/xp_icons/35.ico</file>
+        <file>assets/xp_icons/36.ico</file>
+        <file>assets/xp_icons/37.ico</file>
+        <file>assets/xp_icons/38.ico</file>
+        <file>assets/xp_icons/39.ico</file>
+        <file>assets/xp_icons/40.ico</file>
+        <file>assets/xp_icons/41.ico</file>
+        <file>assets/xp_icons/42.ico</file>
+        <file>assets/xp_icons/43.ico</file>
+        <file>assets/xp_icons/44.ico</file>
+        <file>assets/xp_icons/45.ico</file>
+        <file>assets/xp_icons/46.ico</file>
+        <file>assets/xp_icons/47.ico</file>
+        <file>assets/xp_icons/48.ico</file>
+        <file>assets/xp_icons/54.ico</file>
+        <file>assets/xp_icons/133.ico</file>
+        <file>assets/xp_icons/134.ico</file>
+        <file>assets/xp_icons/137.ico</file>
+        <file>assets/xp_icons/138.ico</file>
+        <file>assets/xp_icons/139.ico</file>
+        <file>assets/xp_icons/140.ico</file>
+        <file>assets/xp_icons/141.ico</file>
+        <file>assets/xp_icons/142.ico</file>
+        <file>assets/xp_icons/143.ico</file>
+        <file>assets/xp_icons/144.ico</file>
+        <file>assets/xp_icons/145.ico</file>
+        <file>assets/xp_icons/146.ico</file>
+        <file>assets/xp_icons/147.ico</file>
+        <file>assets/xp_icons/151.ico</file>
+        <file>assets/xp_icons/152.ico</file>
+        <file>assets/xp_icons/153.ico</file>
+        <file>assets/xp_icons/154.ico</file>
+        <file>assets/xp_icons/155.ico</file>
+        <file>assets/xp_icons/156.ico</file>
+        <file>assets/xp_icons/157.ico</file>
+        <file>assets/xp_icons/160.ico</file>
+        <file>assets/xp_icons/161.ico</file>
+        <file>assets/xp_icons/165.ico</file>
+        <file>assets/xp_icons/166.ico</file>
+        <file>assets/xp_icons/167.ico</file>
+        <file>assets/xp_icons/168.ico</file>
+        <file>assets/xp_icons/169.ico</file>
+        <file>assets/xp_icons/170.ico</file>
+        <file>assets/xp_icons/172.ico</file>
+        <file>assets/xp_icons/173.ico</file>
+        <file>assets/xp_icons/174.ico</file>
+        <file>assets/xp_icons/175.ico</file>
+        <file>assets/xp_icons/176.ico</file>
+        <file>assets/xp_icons/177.ico</file>
+        <file>assets/xp_icons/178.ico</file>
+        <file>assets/xp_icons/179.ico</file>
+        <file>assets/xp_icons/180.ico</file>
+        <file>assets/xp_icons/181.ico</file>
+        <file>assets/xp_icons/182.ico</file>
+        <file>assets/xp_icons/183.ico</file>
+        <file>assets/xp_icons/184.ico</file>
+        <file>assets/xp_icons/185.ico</file>
+        <file>assets/xp_icons/186.ico</file>
+        <file>assets/xp_icons/187.ico</file>
+        <file>assets/xp_icons/191.ico</file>
+        <file>assets/xp_icons/192.ico</file>
+        <file>assets/xp_icons/193.ico</file>
+        <file>assets/xp_icons/194.ico</file>
+        <file>assets/xp_icons/196.ico</file>
+        <file>assets/xp_icons/197.ico</file>
+        <file>assets/xp_icons/198.ico</file>
+        <file>assets/xp_icons/199.ico</file>
+        <file>assets/xp_icons/200.ico</file>
+        <file>assets/xp_icons/210.ico</file>
+        <file>assets/xp_icons/220.ico</file>
+        <file>assets/xp_icons/221.ico</file>
+        <file>assets/xp_icons/222.ico</file>
+        <file>assets/xp_icons/223.ico</file>
+        <file>assets/xp_icons/224.ico</file>
+        <file>assets/xp_icons/225.ico</file>
+        <file>assets/xp_icons/226.ico</file>
+        <file>assets/xp_icons/227.ico</file>
+        <file>assets/xp_icons/228.ico</file>
+        <file>assets/xp_icons/229.ico</file>
+        <file>assets/xp_icons/230.ico</file>
+        <file>assets/xp_icons/232.ico</file>
+        <file>assets/xp_icons/233.ico</file>
+        <file>assets/xp_icons/234.ico</file>
+        <file>assets/xp_icons/235.ico</file>
+        <file>assets/xp_icons/236.ico</file>
+        <file>assets/xp_icons/237.ico</file>
+        <file>assets/xp_icons/238.ico</file>
+        <file>assets/xp_icons/239.ico</file>
+        <file>assets/xp_icons/240.ico</file>
+        <file>assets/xp_icons/241.ico</file>
+        <file>assets/xp_icons/242.ico</file>
+        <file>assets/xp_icons/243.ico</file>
+        <file>assets/xp_icons/244.ico</file>
+        <file>assets/xp_icons/245.ico</file>
+        <file>assets/xp_icons/246.ico</file>
+        <file>assets/xp_icons/247.ico</file>
+        <file>assets/xp_icons/248.ico</file>
+        <file>assets/xp_icons/249.ico</file>
+        <file>assets/xp_icons/250.ico</file>
+        <file>assets/xp_icons/251.ico</file>
+        <file>assets/xp_icons/252.ico</file>
+        <file>assets/xp_icons/253.ico</file>
+        <file>assets/xp_icons/254.ico</file>
+        <file>assets/xp_icons/255.ico</file>
+        <file>assets/xp_icons/256.ico</file>
+        <file>assets/xp_icons/257.ico</file>
+        <file>assets/xp_icons/258.ico</file>
+        <file>assets/xp_icons/259.ico</file>
+        <file>assets/xp_icons/260.ico</file>
+        <file>assets/xp_icons/263.ico</file>
+        <file>assets/xp_icons/264.ico</file>
+        <file>assets/xp_icons/265.ico</file>
+        <file>assets/xp_icons/266.ico</file>
+        <file>assets/xp_icons/267.ico</file>
+        <file>assets/xp_icons/268.ico</file>
+        <file>assets/xp_icons/269.ico</file>
+        <file>assets/xp_icons/270.ico</file>
+        <file>assets/xp_icons/271.ico</file>
+        <file>assets/xp_icons/272.ico</file>
+        <file>assets/xp_icons/273.ico</file>
+        <file>assets/xp_icons/274.ico</file>
+        <file>assets/xp_icons/275.ico</file>
+        <file>assets/xp_icons/276.ico</file>
+        <file>assets/xp_icons/277.ico</file>
+        <file>assets/xp_icons/278.ico</file>
+        <file>assets/xp_icons/279.ico</file>
+        <file>assets/xp_icons/281.ico</file>
+        <file>assets/xp_icons/282.ico</file>
+        <file>assets/xp_icons/283.ico</file>
+        <file>assets/xp_icons/284.ico</file>
+        <file>assets/xp_icons/289.ico</file>
+        <file>assets/xp_icons/290.ico</file>
+        <file>assets/xp_icons/291.ico</file>
+        <file>assets/xp_icons/292.ico</file>
+        <file>assets/xp_icons/293.ico</file>
+        <file>assets/xp_icons/294.ico</file>
+        <file>assets/xp_icons/295.ico</file>
+        <file>assets/xp_icons/296.ico</file>
+        <file>assets/xp_icons/297.ico</file>
+        <file>assets/xp_icons/298.ico</file>
+        <file>assets/xp_icons/299.ico</file>
+        <file>assets/xp_icons/300.ico</file>
+        <file>assets/xp_icons/301.ico</file>
+        <file>assets/xp_icons/302.ico</file>
+        <file>assets/xp_icons/303.ico</file>
+        <file>assets/xp_icons/304.ico</file>
+        <file>assets/xp_icons/305.ico</file>
+        <file>assets/xp_icons/306.ico</file>
+        <file>assets/xp_icons/307.ico</file>
+        <file>assets/xp_icons/308.ico</file>
+        <file>assets/xp_icons/309.ico</file>
+        <file>assets/xp_icons/310.ico</file>
+        <file>assets/xp_icons/311.ico</file>
+        <file>assets/xp_icons/312.ico</file>
+        <file>assets/xp_icons/313.ico</file>
+        <file>assets/xp_icons/314.ico</file>
+        <file>assets/xp_icons/315.ico</file>
+        <file>assets/xp_icons/316.ico</file>
+        <file>assets/xp_icons/317.ico</file>
+        <file>assets/xp_icons/318.ico</file>
+        <file>assets/xp_icons/319.ico</file>
+        <file>assets/xp_icons/320.ico</file>
+        <file>assets/xp_icons/321.ico</file>
+        <file>assets/xp_icons/322.ico</file>
+        <file>assets/xp_icons/323.ico</file>
+        <file>assets/xp_icons/324.ico</file>
+        <file>assets/xp_icons/326.ico</file>
+        <file>assets/xp_icons/327.ico</file>
+        <file>assets/xp_icons/328.ico</file>
+        <file>assets/xp_icons/330.ico</file>
+        <file>assets/xp_icons/331.ico</file>
+        <file>assets/xp_icons/337.ico</file>
+        <file>assets/xp_icons/338.ico</file>
+        <file>assets/xp_icons/339.ico</file>
+        <file>assets/xp_icons/512.ico</file>
+        <file>assets/xp_icons/1001.ico</file>
+        <file>assets/xp_icons/1003.ico</file>
+        <file>assets/xp_icons/1004.ico</file>
+        <file>assets/xp_icons/1007.ico</file>
+        <file>assets/xp_icons/1011.ico</file>
+        <file>assets/xp_icons/8240.ico</file>
+        <file>assets/xp_icons/16718.ico</file>
+        <file>assets/xp_icons/Accessibility Options.ico</file>
+        <file>assets/xp_icons/Add New Hardware.ico</file>
+        <file>assets/xp_icons/Add Remove Programs.ico</file>
+        <file>assets/xp_icons/AVI File.ico</file>
+        <file>assets/xp_icons/BMP File.ico</file>
+        <file>assets/xp_icons/Briefcase.ico</file>
+        <file>assets/xp_icons/Console.ico</file>
+        <file>assets/xp_icons/Control Panel.ico</file>
+        <file>assets/xp_icons/Date Time.ico</file>
+        <file>assets/xp_icons/Desktop Themes.ico</file>
+        <file>assets/xp_icons/Devices.ico</file>
+        <file>assets/xp_icons/Dial-up Networking.ico</file>
+        <file>assets/xp_icons/Disk-Defragmenter.ico</file>
+        <file>assets/xp_icons/Display.ico</file>
+        <file>assets/xp_icons/DLL File.ico</file>
+        <file>assets/xp_icons/downloadfolder.ico</file>
+        <file>assets/xp_icons/Drive (C)(1).ico</file>
+        <file>assets/xp_icons/Drive (C)(2).ico</file>
+        <file>assets/xp_icons/Drive (D).ico</file>
+        <file>assets/xp_icons/Entire Network.ico</file>
+        <file>assets/xp_icons/Error-Check.ico</file>
+        <file>assets/xp_icons/Excel Document.ico</file>
+        <file>assets/xp_icons/Excel File.ico</file>
+        <file>assets/xp_icons/EXE File.ico</file>
+        <file>assets/xp_icons/Find Fast.ico</file>
+        <file>assets/xp_icons/Floppy Disk Drive (A).ico</file>
+        <file>assets/xp_icons/Floppy Disk Drive (A)(2).ico</file>
+        <file>assets/xp_icons/FLT File.ico</file>
+        <file>assets/xp_icons/FONT File (1).ico</file>
+        <file>assets/xp_icons/FONT File (2).ico</file>
+        <file>assets/xp_icons/FONT TrueType File.ico</file>
+        <file>assets/xp_icons/Gaming Options.ico</file>
+        <file>assets/xp_icons/GIF File.ico</file>
+        <file>assets/xp_icons/INI File.ico</file>
+        <file>assets/xp_icons/Intel Graphics Configuration.ico</file>
+        <file>assets/xp_icons/Internet(1).ico</file>
+        <file>assets/xp_icons/Internet(2).ico</file>
+        <file>assets/xp_icons/Internet Explorer.ico</file>
+        <file>assets/xp_icons/Internet Options.ico</file>
+        <file>assets/xp_icons/JPG File.ico</file>
+        <file>assets/xp_icons/Keyboard.ico</file>
+        <file>assets/xp_icons/Mail.ico</file>
+        <file>assets/xp_icons/Media Player.ico</file>
+        <file>assets/xp_icons/Microsoft Outlook.ico</file>
+        <file>assets/xp_icons/Modems.ico</file>
+        <file>assets/xp_icons/MS DTC.ico</file>
+        <file>assets/xp_icons/Multimedia.ico</file>
+        <file>assets/xp_icons/My Computer.ico</file>
+        <file>assets/xp_icons/My Documents.ico</file>
+        <file>assets/xp_icons/My Network Places.ico</file>
+        <file>assets/xp_icons/Network.ico</file>
+        <file>assets/xp_icons/Network and Dial-up Connections.ico</file>
+        <file>assets/xp_icons/Network Neighbourhood.ico</file>
+        <file>assets/xp_icons/New Folder.ico</file>
+        <file>assets/xp_icons/Notepad.ico</file>
+        <file>assets/xp_icons/ODBC Data Sources (32 Bit).ico</file>
+        <file>assets/xp_icons/ODS File.ico</file>
+        <file>assets/xp_icons/ODT File.ico</file>
+        <file>assets/xp_icons/Packager.ico</file>
+        <file>assets/xp_icons/Paint.ico</file>
+        <file>assets/xp_icons/Paintbrush.ico</file>
+        <file>assets/xp_icons/Passwords.ico</file>
+        <file>assets/xp_icons/PC-Card (PCMCIA).ico</file>
+        <file>assets/xp_icons/PDF File.ico</file>
+        <file>assets/xp_icons/Ports.ico</file>
+        <file>assets/xp_icons/Power.ico</file>
+        <file>assets/xp_icons/Printers.ico</file>
+        <file>assets/xp_icons/QuickTime.ico</file>
+        <file>assets/xp_icons/Recycle Bin.ico</file>
+        <file>assets/xp_icons/Regional Settings.ico</file>
+        <file>assets/xp_icons/Scanners and Cameras.ico</file>
+        <file>assets/xp_icons/Scheduled Tasks.ico</file>
+        <file>assets/xp_icons/Script File.ico</file>
+        <file>assets/xp_icons/SCSI-Adapter.ico</file>
+        <file>assets/xp_icons/Server.ico</file>
+        <file>assets/xp_icons/Services.ico</file>
+        <file>assets/xp_icons/Solitaire.ico</file>
+        <file>assets/xp_icons/Sound.ico</file>
+        <file>assets/xp_icons/Sounds.ico</file>
+        <file>assets/xp_icons/System(1).ico</file>
+        <file>assets/xp_icons/System(2).ico</file>
+        <file>assets/xp_icons/System Backup.ico</file>
+        <file>assets/xp_icons/Tape Devices.ico</file>
+        <file>assets/xp_icons/Telephony.ico</file>
+        <file>assets/xp_icons/Tweak UI.ico</file>
+        <file>assets/xp_icons/TXT File.ico</file>
+        <file>assets/xp_icons/UPS.ico</file>
+        <file>assets/xp_icons/Users.ico</file>
+        <file>assets/xp_icons/Users and Passwords.ico</file>
+        <file>assets/xp_icons/WAV File.ico</file>
+        <file>assets/xp_icons/Web Folders.ico</file>
+        <file>assets/xp_icons/Webpage.ico</file>
+        <file>assets/xp_icons/Word Document.ico</file>
+        <file>assets/xp_icons/Word File.ico</file>
+        <file>assets/xp_icons/Wordpad.ico</file>
+        <file>assets/xp_icons/ZIP 100 (E).ico</file>
+    </qresource>
+</RCC>
